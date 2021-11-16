@@ -1,0 +1,1 @@
+select active,createdAt from classplus-staging.live_lecture_bulk_entity_map
